@@ -1,0 +1,28 @@
+.nagłówek{
+    float: left;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    background-color:  rgb(255, 0, 0);
+    backdrop-filter: blur(5px);
+    box-shadow: black;
+  
+    
+    
+    
+}
+li  {
+    display: center;
+    float: left;
+    text-align: center;
+    font-size: 1.8em;
+    width: 220px;
+    height: 50px;
+    text-decoration: none;
+    
+}
+.tło{
+    background-image: url=("https://media.wplm.pl/thumbs/424/NzIweDQ0Mi9jX2MvdV8xL2NjXzA1Njc3L3AvMjAyMC8wNS8wNC84MDAvNTMzLzRjNDAyYWVmYzdjZDRkMWNhMjQ0YzVkMWRjYzM1MjFkLmpwZWc=.jpeg");
+   
+}
